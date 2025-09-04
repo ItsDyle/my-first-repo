@@ -3,4 +3,4 @@
 Hallo!
 ![hiding behind a tree](jo-bonten-surival-expert-jo-bonten.gif)
 
-Hier staat een link naar [zuyd.nl](hhtps://zuyd.nl).
+Hier staat een link naar [zuyd.nl](https://zuyd.nl).
